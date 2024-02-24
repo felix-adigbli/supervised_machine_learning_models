@@ -1,1 +1,2 @@
 # supervised_machine_learning_models
+Firewall Device used at Firat University. In this report, I will compare and contrast the five supervised learning algorithm in terms of learning curve, model complexity, the time it takes to execute. I will also do parameter tunning for each of the algorithms to improve the performance. Exploratory data analysis will also be done on both datasets.
